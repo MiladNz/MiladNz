@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MiladNz
 - 👀 I’m interested in Front-end development , Python and Sky :)
 - 🌱 I’m currently learning basics of Front-end
-- 💞️ I’m looking to collaborate on any simple Front-end project
+- 💞️ I’m looking to collaborate on any simple Front-end projects 
 - 📫 How to reach me : herculepoirot2099@gmail.com
 
 <!---
