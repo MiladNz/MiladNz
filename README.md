@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiladNz
 - 👀 I’m interested in Front-end development , Python and Sky :)
-- 🌱 I’m currently learning basics of Front-end
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any simple Front-end projects 
 - 📫 How to reach me : milad.n91@gmail.com
 
