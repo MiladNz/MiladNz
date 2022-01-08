@@ -1,6 +1,6 @@
 ✨ Hi, I’m Milad
 <br />
-✨ I’m interested in Front-end development , Python and Sky :)
+✨ I’m interested in Front-end development , History of ancient Iran and Sky🌠
 <br />
 ✨ I’m currently learning Javascript
 <br />
