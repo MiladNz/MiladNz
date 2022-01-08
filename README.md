@@ -4,8 +4,6 @@
 <br />
 ✨ I’m currently learning Javascript
 <br />
-
-
 <p align="center">
   <a href=""><img alt="Releases" src="https://img.shields.io/badge/HTML-5-orange"/></a>
   <a href=""><img alt="" src="https://img.shields.io/badge/CSS-3-blue" /></a>
@@ -13,9 +11,9 @@
 </p>
 
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiladNz&show_icons=true&theme=slateorange)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladNz&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiladNz&theme=dark" width="40%" >
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiladNz&theme=dark" width="58.5%" >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladNz&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 <!---
