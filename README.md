@@ -14,7 +14,7 @@
 
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiladNz&show_icons=true&theme=slateorange)
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiladNz&theme=dark" width="58%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiladNz&theme=dark" width="59%" >
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladNz&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <!---
