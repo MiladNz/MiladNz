@@ -2,7 +2,7 @@
 <br />
 ✨ I’m interested in Front-end development , History of ancient Iran and Sky🌠
 <br />
-✨ I’m currently learning Javascript
+✨ I’m currently learning Javascript ...
 <br />
 <p align="center">
   <a href=""><img alt="Releases" src="https://img.shields.io/badge/HTML-5-orange"/></a>
