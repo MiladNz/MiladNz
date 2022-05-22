@@ -15,6 +15,7 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladNz&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <br />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MiladNz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 MiladNz/MiladNz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
