@@ -12,7 +12,7 @@
 
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiladNz&show_icons=true&theme=slateorange)
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiladNz&theme=dark" width="49%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiladNz&theme=dark" width="55%" >
 <br />
 [![Milad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MiladNz&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 <br />
