@@ -4,11 +4,6 @@
 <br />
 ✨ I’m currently learning Javascript ...
 <br />
-<p align="center">
-  <a href=""><img alt="Releases" src="https://img.shields.io/badge/HTML-5-orange"/></a>
-  <a href=""><img alt="" src="https://img.shields.io/badge/CSS-3-blue" /></a>
-  <a href=""><img alt="" src="https://img.shields.io/badge/Javascript-Js-yellow" /></a>
-</p>
 
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiladNz&show_icons=true&theme=slateorange)
 <br />
