@@ -9,8 +9,6 @@
 <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiladNz&theme=dark" width="58.5%" >
 <br />
-[![Milad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MiladNz&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladNz&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
