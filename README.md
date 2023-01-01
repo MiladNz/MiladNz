@@ -4,7 +4,9 @@
 <br />
 ✨ I’m currently learning Javascript ...
 <br />
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiladNz&show_icons=true&theme=slateorange)
 <br />
 <figure><embed src="https://wakatime.com/share/@miladnz/6f6afb2c-cef7-4bfe-9652-ccca57c3b042.svg"></embed></figure>
