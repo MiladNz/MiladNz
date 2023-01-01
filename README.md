@@ -5,9 +5,6 @@
 🎯 I’m currently learning Javascript ...
 <br />
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miladnz&custom_title="Week-Stats-By-Wakatime"&theme=transparent)
-<br/>
-
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiladNz&show_icons=true&theme=defaulte)
 <br />
 <figure><embed src="https://wakatime.com/share/@miladnz/6f6afb2c-cef7-4bfe-9652-ccca57c3b042.svg"></embed></figure>
