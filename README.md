@@ -1,8 +1,8 @@
-✨ Hi, I’m Milad 
+👋 Hi, I’m Milad 
 <br />
 ✨ I’m interested in Front-end development , History of ancient Iran and Sky🌠
 <br />
-✨ I’m currently learning Javascript ...
+🎯 I’m currently learning Javascript ...
 <br />
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miladnz&custom_title="Week-Stats-By-Wakatime"&theme=transparent)
