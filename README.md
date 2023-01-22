@@ -4,8 +4,8 @@
 
 ### 🧔 About Me 
 
-- I'm a Junior Front-end developer from Tehran,Iran.
-- I’m interested in Programming, History of ancient Iran and Cats.
+- 👨‍💻  I'm a Junior Front-end developer from Tehran,Iran.
+- ✨ I’m interested in Programming, History of ancient Iran and Cats.
 
 - 🔭  I’m currently working on completing Javascript Course...
 - 🔥  My next step is learning React 
@@ -19,7 +19,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)]([www.linkedin.com/in/milad-nz](https://www.linkedin.com/in/milad-nz/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/MiladNz)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:milad.n91@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/milizd)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/imiladev_front)
     
 </div>
@@ -30,7 +30,7 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladnz&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladnz&show_icons=true&theme=swift)
 
 </div>
 
