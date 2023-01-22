@@ -34,7 +34,7 @@
 
 </div>
 
-###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Week Stats By Wakatime:
+###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Week Stats By Wakatime:
 
 <div align="center">
   
