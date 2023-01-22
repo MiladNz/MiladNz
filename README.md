@@ -30,7 +30,7 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladnz&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladnz&count_private=true&show_icons=true&theme=swift)
 
 </div>
 
