@@ -32,7 +32,7 @@
   
 ### 📈 My Stats :
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miladnz&count_private=true&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="milad's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miladnz&count_private=true&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="milad's github stats" /></a>
 </div>
 
 ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Week Stats By Wakatime:
