@@ -4,7 +4,7 @@
 
 ### 🧔 About Me 
 
-- 👨‍💻  I'm a Junior Front-end developer from Tehran,Iran.
+- 👨‍💻  I'm a self-taught passionate FrontEnd developer from Iran
 - ✨ I’m interested in Programming, History of ancient Iran and Cats.
 
 - 🔭  I’m currently working on completing Javascript Course...
@@ -27,11 +27,9 @@
 ---
   
 ### 📈 My Stats :
-
 <div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladnz&count_private=true&show_icons=true&theme=swift)
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miladnz&count_private=true&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladnz&layout=compact&theme=vue&hide_border=true" /></a>
 </div>
 
 ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Week Stats By Wakatime:
