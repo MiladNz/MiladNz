@@ -69,5 +69,5 @@
  </div>
 
 <!--
-&include_all_commits=true
+&include_all_commits=true ---
 -->
