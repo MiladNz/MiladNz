@@ -30,7 +30,7 @@
 
 ---
   
-### 📈 My Stats :
+### 📈 My Stats
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miladnz&count_private=true&show_icons=true&theme=flag-india&hide_border=true" alt="milad's github stats" /></a>
 </div>
@@ -46,7 +46,7 @@
 ---
 
 
-### 👨‍💻 Programming and Markup Language :
+### 👨‍💻 Programming and Markup Language
 
 <div align="center">
   
@@ -56,7 +56,7 @@
 
 </div>
 
-### 💻 Software and Tools:
+### 💻 Software and Tools
 
 <div align="center">
   
