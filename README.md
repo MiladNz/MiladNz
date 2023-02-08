@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+😊;I'm+Milad+Nz;&center=true&font=Vazirmatn&weight=900&duration=3000&pause=1000&height=50&width=600&color=E32934&size=30">
 </h1>
 
-
 ## 🧔 About Me 
 
 - 👨‍💻  I'm a self-taught passionate FrontEnd developer from Iran
@@ -32,7 +31,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miladnz&count_private=true&show_icons=true&theme=flag-india&hide_border=true" alt="milad's github stats" /></a>
 </div>
 
-###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Week Stats By Wakatime:
+##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Week Stats By Wakatime:
 
 <div align="center">
   
