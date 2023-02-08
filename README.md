@@ -2,17 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+😊;I'm+Milad+Nz;&center=true&font=Vazirmatn&weight=900&duration=3000&pause=1000&height=50&width=600&color=E32934&size=30">
 </h1>
 
-### 🧔 About Me 
+
+## 🧔 About Me 
 
 - 👨‍💻  I'm a self-taught passionate FrontEnd developer from Iran
 - ✨ I’m interested in Programming, History of ancient Iran and Cats.
 
 - 🔭  I’m currently working on completing Javascript Course...
-- 🔥  My next step is learning React 
+- 🔥  My next step is learning React.
 
----
-
-### 📌 My Social
+## 📌 My Social
 
 <div align="center">
     
@@ -25,12 +24,10 @@
 <a href="https://t.me/m_fdev">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" />
 </a>
-    
-</div>
 
----
+</div>
   
-### 📈 My Stats
+## 📈 My Stats
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miladnz&count_private=true&show_icons=true&theme=flag-india&hide_border=true" alt="milad's github stats" /></a>
 </div>
@@ -41,12 +38,9 @@
   
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miladnz&hide_title=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div> 
-  
----
+</div>
 
-
-### 👨‍💻 Programming and Markup Language
+## 👨‍💻 Programming and Markup Language
 
 <div align="center">
   
@@ -56,7 +50,7 @@
 
 </div>
 
-### 💻 Software and Tools
+## 💻 Software and Tools
 
 <div align="center">
   
@@ -67,6 +61,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
   
  </div>
+    
+## ❤ Views and Followers
+<a href="https://github.com/MiladNz/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=miladnz">
+</a>
+<a href="https://github.com/MiladNz?tab=followers"><img src="https://img.shields.io/github/followers/miladnz?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--
 Alive Section:
