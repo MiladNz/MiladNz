@@ -2,13 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+😊;I'm+Milad;&center=true&font=Vazirmatn&weight=900&duration=3000&pause=1000&height=50&width=600&color=E32934&size=30">
 </h1>
 
-## 🧔 About Me 
+## About Me 
 
-- 👨‍💻  I'm a self-taught passionate FrontEnd developer from Iran
+- 💻  I'm a self-taught passionate FrontEnd developer from Iran
 - ✨ I’m interested in Programming, History of ancient Iran and Cats.
 - 🔭  I’m currently working on completing Javascript Course and my next step is learning React.
 
-## 📌 My Social
+##  My Social
 
 <div>
     
@@ -24,7 +24,7 @@
 
 </div>
   
-## 👨‍💻 My Programming and Markup Language
+## My Programming and Markup Language
 
 <div>
   
@@ -34,7 +34,7 @@
 
 </div>
 
-## 💻 Software and Tools
+## Software and Tools
 
 <div>
   
@@ -54,7 +54,7 @@
 
 
 <!--
-## 📈 My Stats
+## My Stats
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miladnz&count_private=true&show_icons=true&theme=flag-india&hide_border=true" alt="milad's github stats" /></a>
 </div>
