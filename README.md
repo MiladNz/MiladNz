@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+😊;I'm+Milad;&center=true&font=Vazirmatn&weight=900&duration=3000&pause=1000&height=50&width=600&color=2929b3&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+😊;I'm+Milad;&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=70&width=600&color=2929b3&size=30">
 </h1>
+
 
 ## About Me 
 
@@ -46,28 +47,15 @@
   
  </div>
     
+## WakaTime
+<div>
+    <h3 align="left"><a href="https://wakatime.com/@miladnz" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="miladnz" height="30" width="30" /></a>
+ WakaTime Activity: <img src="https://wakatime.com/badge/user/eda8ff47-82f5-4073-81c5-d2b8406b282e.svg" alt="miladnz" />
+ </h3>
+<img align="center" src="https://wakatime.com/share/@miladnz/bcae466d-8e3c-4257-919a-26f4a773e427.svg" alt="miladnz" />
+</div>
+
 ## ❤ Views and Followers
 <a href="https://github.com/MiladNz/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=miladnz">
-</a>
-<a href="https://github.com/MiladNz?tab=followers"><img src="https://img.shields.io/github/followers/miladnz?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-<!--
-## My Stats
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miladnz&count_private=true&show_icons=true&theme=flag-india&hide_border=true" alt="milad's github stats" /></a>
-</div>
-
-##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Week Stats By Wakatime:
-
-<div align="center">
-  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miladnz&hide_title=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
--->
-<!--
-Alive Section:
-3/2/23 - Js reveiw
--->
+<img src="https://komarev.com/ghpvc/?username=miladnz">
+</a><a href="https://github.com/MiladNz?tab=followers"><img src="https://img.shields.io/github/followers/miladnz?label=Followers&style=social" alt="GitHub Badge"></a>
