@@ -19,7 +19,7 @@
 <a href="https://instagram.com/imiladev_front">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>
-<a href="https://t.me/m_fdev">
+<a href="https://t.me/miladn01">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" />
 </a>
 
