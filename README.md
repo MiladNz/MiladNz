@@ -44,6 +44,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub&nbsp;Desktop-8034a9?logo=GitHub&logoColor=white&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
 
 
