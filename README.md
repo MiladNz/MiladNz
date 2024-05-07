@@ -6,8 +6,11 @@
 ## About Me 
 
 - 💻  I'm a self-taught passionate FrontEnd developer from Iran
-- ✨ I’m interested in Programming, History of ancient Iran and Cats.
+- ✨ I’m interested in Programming, History of ancient Iran , Cats and Super Mario ;)
 - 🔭  I’m currently working on completing Tailwind Course and my next step is learning React.
+
+![Mario](https://user-images.githubusercontent.com/2184469/40949613-7542733a-6834-11e8-895b-ce1cc3af9dbb.gif)
+
 
 ##  My Social
 
