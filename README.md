@@ -9,8 +9,6 @@
 - ✨ I’m interested in Programming, History of ancient Iran , Cats and Super Mario ;)
 - 🔭  I’m currently working on completing Tailwind Course and my next step is learning React.
 
-![Mario](https://user-images.githubusercontent.com/2184469/40949613-7542733a-6834-11e8-895b-ce1cc3af9dbb.gif)
-
 
 ##  My Social
 
@@ -61,6 +59,24 @@
  </h3>
 <img align="center" src="https://wakatime.com/share/@miladnz/bcae466d-8e3c-4257-919a-26f4a773e427.svg" alt="miladnz" />
 </div>
+
+
+<!---
+<div>
+name: WakaTime
+    
+uses: lowlighter/metrics@latest
+
+with:
+  filename: metrics.plugin.wakatime.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_wakatime: yes
+  plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+  plugin_wakatime_token: ${}
+</div>
+
+---!>
 
 ## ❤ Views and Followers
 <a href="https://github.com/MiladNz/github-profile-views-counter">
