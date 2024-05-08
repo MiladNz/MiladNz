@@ -61,6 +61,15 @@
 </div>
 
 
+
+## ❤ Views and Followers
+<a href="https://github.com/MiladNz/github-profile-views-counter">
+    
+<img src="https://komarev.com/ghpvc/?username=miladnz">
+</a><a href="https://github.com/MiladNz?tab=followers"><img src="https://img.shields.io/github/followers/miladnz?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
 <!---
 <div>
 name: WakaTime
@@ -77,12 +86,5 @@ with:
 </div>
 
 ---!>
-
-## ❤ Views and Followers
-<a href="https://github.com/MiladNz/github-profile-views-counter">
-    
-<img src="https://komarev.com/ghpvc/?username=miladnz">
-</a><a href="https://github.com/MiladNz?tab=followers"><img src="https://img.shields.io/github/followers/miladnz?label=Followers&style=social" alt="GitHub Badge"></a>
-
 
 
