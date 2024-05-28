@@ -7,7 +7,7 @@
 
 - 💻  I'm a self-taught passionate FrontEnd developer from Iran
 - ✨ I’m interested in Programming, History of ancient Iran , Cats and Super Mario ;)
-- 🔭  I’m currently working on completing Tailwind Course and my next step is learning React.
+- 🔭  I’m currently working on completing React Course and my next step is learning Next.
 
 
 ##  My Social
