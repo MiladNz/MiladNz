@@ -6,7 +6,7 @@
 ## About Me 
 
 - 💻  I'm a self-taught passionate FrontEnd developer from Iran
-- ✨ I’m interested in Programming, History of ancient Iran , Cats and Super Mario ;)
+- ✨ I’m interested in Programming , History of Persian civilization , Cats and Super Mario ;)
 - 🔭  I’m currently working on completing React Course and my next step is learning Next.
 
 
