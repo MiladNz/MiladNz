@@ -52,14 +52,6 @@
   
  </div>
     
-## WakaTime
-<div>
-    <h3 align="left"><a href="https://wakatime.com/@miladnz" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="miladnz" height="30" width="30" /></a>
- WakaTime Activity: <img src="https://wakatime.com/badge/user/eda8ff47-82f5-4073-81c5-d2b8406b282e.svg" alt="miladnz" />
- </h3>
-<img align="center" src="https://wakatime.com/share/@miladnz/bcae466d-8e3c-4257-919a-26f4a773e427.svg" alt="miladnz" />
-</div>
-
 
 
 ## ❤ Views and Followers
@@ -71,6 +63,17 @@
 
 
 <!---
+-------------waka
+## WakaTime
+<div>
+    <h3 align="left"><a href="https://wakatime.com/@miladnz" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="miladnz" height="30" width="30" /></a>
+ WakaTime Activity: <img src="https://wakatime.com/badge/user/eda8ff47-82f5-4073-81c5-d2b8406b282e.svg" alt="miladnz" />
+ </h3>
+<img align="center" src="https://wakatime.com/share/@miladnz/bcae466d-8e3c-4257-919a-26f4a773e427.svg" alt="miladnz" />
+</div>
+
+
+---------------------
 <div>
 name: WakaTime
     
