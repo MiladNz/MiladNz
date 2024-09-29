@@ -1,9 +1,9 @@
 
 # Hi, I'm Milad 👋 💻 
 
-- 💻  I'm a self-taught passionate FrontEnd developer from Iran
-- ✨ I’m interested in Programming , History of Persian civilization , Cats and Super Mario ;)
-- 🔭  I’m currently working on completing React Course and my next step is learning Next.
+- 💻  **I'm a self-taught passionate FrontEnd developer from Iran**
+- ✨ **I’m interested in Programming , History of Persian civilization , Cats and Super Mario ;)**
+- 🔭  **I’m currently working on completing React Course and my next step is learning Next.**
 
 
 
@@ -19,13 +19,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,styledcomponents,vercel&perline=3)](https://skillicons.dev)
 
 
-## WakaTime
-<div>
-    <h3 align="left"><a href="https://wakatime.com/@miladnz" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="miladnz" height="30" width="30" /></a>
- WakaTime Activity: <img src="https://wakatime.com/badge/user/eda8ff47-82f5-4073-81c5-d2b8406b282e.svg" alt="miladnz" />
- </h3>
-<img align="center" src="https://wakatime.com/share/@miladnz/bcae466d-8e3c-4257-919a-26f4a773e427.svg" alt="miladnz" />
-</div>
 
 ## ❤ Views and Followers
 <a href="https://github.com/MiladNz/github-profile-views-counter">
@@ -74,6 +67,17 @@ with:
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" />
 </a>
 
+</div>
+
+------------
+
+
+## WakaTime
+<div>
+    <h3 align="left"><a href="https://wakatime.com/@miladnz" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="miladnz" height="30" width="30" /></a>
+ WakaTime Activity: <img src="https://wakatime.com/badge/user/eda8ff47-82f5-4073-81c5-d2b8406b282e.svg" alt="miladnz" />
+ </h3>
+<img align="center" src="https://wakatime.com/share/@miladnz/bcae466d-8e3c-4257-919a-26f4a773e427.svg" alt="miladnz" />
 </div>
 
 ---!>
