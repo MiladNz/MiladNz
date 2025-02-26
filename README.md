@@ -57,7 +57,6 @@ with:
 ---------
 
 ##  My Social
-
 <div>
     
 <a href="https://www.linkedin.com/in/milad-nz/">
@@ -70,7 +69,6 @@ with:
 </div>
 
 ------------
-
 
 ## WakaTime
 <div>
