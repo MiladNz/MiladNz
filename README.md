@@ -3,7 +3,7 @@
 
 - 💻  **I'm a self-taught passionate FrontEnd developer from Iran**
 - ✨ **I’m interested in Programming , History of Persian civilization , Cats and Super Mario ;)**
-- 🔭  **I’m currently working on completing React Course and my next step is learning Next.**
+- 🔭  **I’m currently working on completing Next.js Course.**
 
 
 
